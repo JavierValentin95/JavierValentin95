@@ -1,6 +1,25 @@
-## Hi there 👋
+# Olá, me chamo Javier!
+## Bem-vindo ao meu perfil Github 👋
+
+- Sou Engenheiro Geologo formado na Universidad de Oriente (Venezuela) e estou cursando Técnico em Administração no Senac - RS (a distáncia).
+- Atualemente estou trabalhando no Instituto Hermanitos em Manaus como Analista de Monitoramento e Avaliação de Dados.
+- Sou um apaixonado pela área de TI, cada dia tento aprender mais um pouco sobre ciência de dados e desenvolvimento back-end.
+
+## O que estou aprendendo
+- Python e bibliotecas.
+- JavaScript.
+- HTML.
+- CSS.
+
+## O que eu sei
+- Spreadsheets (Google Sheets e Excel).
+- Ferramentas de visulização de dados como Power BI, Lokeer Studio, Tableau.
+- SQL.
+
 
 <!--
+## Hi there 👋
+
 **JavierValentin95/JavierValentin95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
