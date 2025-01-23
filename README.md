@@ -13,7 +13,7 @@
 
 ## O que eu sei
 - Spreadsheets (Google Sheets e Excel).
-- Ferramentas de visulização de dados como Power BI, L0oker Studio, Tableau.
+- Ferramentas de visulização de dados como Power BI, Looker Studio, Tableau.
 - SQL.
 
 
