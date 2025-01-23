@@ -2,18 +2,18 @@
 ## Bem-vindo ao meu perfil Github 👋
 
 - Sou Engenheiro Geologo formado na Universidad de Oriente (Venezuela) e estou cursando Técnico em Administração no Senac - RS (a distáncia).
-- Atualemente estou trabalhando no Instituto Hermanitos em Manaus como Analista de Monitoramento e Avaliação de Dados.
+- Atualmente estou trabalhando no Instituto Hermanitos em Manaus como Analista de Monitoramento e Avaliação de Dados.
 - Sou um apaixonado pela área de TI, cada dia tento aprender mais um pouco sobre ciência de dados e desenvolvimento back-end.
 
 ## O que estou aprendendo
-- Python e bibliotecas.
+- Python.
 - JavaScript.
 - HTML.
 - CSS.
 
 ## O que eu sei
 - Spreadsheets (Google Sheets e Excel).
-- Ferramentas de visulização de dados como Power BI, Lokeer Studio, Tableau.
+- Ferramentas de visulização de dados como Power BI, L0oker Studio, Tableau.
 - SQL.
 
 
